@@ -3,7 +3,7 @@ name: "\U0001F504 版本更新"
 about: 报告 Antigravity 新版本需要更新汉化
 title: "[版本更新] Antigravity vX.X.X"
 labels: ["版本更新"]
-assignees: kakarotto-baroko
+assignees: shahimmcritchie
 ---
 
 ## 新版本信息

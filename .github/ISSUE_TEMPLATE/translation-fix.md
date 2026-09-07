@@ -3,7 +3,7 @@ name: "\U0001F41B 翻译修正"
 about: 报告翻译错误或不当翻译
 title: "[翻译修正] "
 labels: ["翻译", "bug"]
-assignees: kakarotto-baroko
+assignees: shahimmcritchie
 ---
 
 ## 错误位置
