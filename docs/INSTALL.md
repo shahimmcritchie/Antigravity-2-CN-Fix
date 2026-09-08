@@ -3,7 +3,7 @@
 ## 系统要求
 
 - Windows 10/11 64-bit
-- Antigravity 2.0.6 已安装
+- Antigravity 已安装（当前已在 `2.12.2` 上验证可用）
 - PowerShell 5.1+
 
 ## 自动安装
@@ -23,8 +23,8 @@
 ### PowerShell 方式
 
 ```powershell
-git clone https://github.com/kakarotto-baroko/antigravity-2.0-zhcn.git
-cd antigravity-2.0-zhcn
+git clone https://github.com/shahimmcritchie/Antigravity-2-CN-Fix.git
+cd Antigravity-2-CN-Fix
 powershell -ExecutionPolicy Bypass -File scripts/apply.ps1
 ```
 
